@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; ashutoshsaxena</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/https-ash-sxn.github.io//category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/https-ash-sxn.github.io//</link>
 	<description></description>
 	<lastBuildDate>Sun, 20 Oct 2019 01:58:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/2019/10/20/hello-world/</link>
-					<comments>/2019/10/20/hello-world/#comments</comments>
+		<link>/https-ash-sxn.github.io//2019/10/20/hello-world/</link>
+					<comments>/https-ash-sxn.github.io//2019/10/20/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[jamesheller9009]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 01:58:52 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2019/10/20/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/https-ash-sxn.github.io//2019/10/20/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
