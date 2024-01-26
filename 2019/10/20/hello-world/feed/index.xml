@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/https-ash-sxn.github.io//2019/10/20/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/https-ash-sxn.github.io//2019/10/20/hello-world/</link>
+	<atom:link href="/2019/10/20/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/2019/10/20/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Sun, 20 Oct 2019 01:58:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/https-ash-sxn.github.io//2019/10/20/hello-world/#comment-3</link>
+		<link>/2019/10/20/hello-world/#comment-3</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 01:58:52 +0000</pubDate>
